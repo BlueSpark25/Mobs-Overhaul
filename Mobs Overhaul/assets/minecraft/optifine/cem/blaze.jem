@@ -1,0 +1,175 @@
+{
+	"texture": "textures/entity/blaze.png",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"rotate": [0, -45, 0],
+			"boxes": [
+				{"coordinates": [-3, 20, -3, 7, 7, 7], "textureOffset": [20, 0]},
+				{"coordinates": [-3, 27, -3, 6, 4, 6], "textureOffset": [38, 21]},
+				{"coordinates": [-2, 21, -2, 5, 5, 5], "textureOffset": [0, 0]},
+				{"coordinates": [-4, 26, -4, 9, 0, 9], "textureOffset": [7, 23]}
+			]
+		},
+		{
+			"part": "stick1",
+			"id": "stick1",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 2, 2, 2], "textureOffset": [8, 18]},
+				{"coordinates": [0, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-2, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-3, 14, -1, 4, 10, 0], "textureOffset": [0, 15]},
+				{"coordinates": [-3, 14, 1, 4, 10, 0], "textureOffset": [0, 15]}
+			]
+		},
+		{
+			"part": "stick2",
+			"id": "stick2",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 2, 2, 2], "textureOffset": [8, 18]},
+				{"coordinates": [0, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-2, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-3, 14, -1, 4, 10, 0], "textureOffset": [0, 15]},
+				{"coordinates": [-3, 14, 1, 4, 10, 0], "textureOffset": [0, 15]}
+			]
+		},
+		{
+			"part": "stick3",
+			"id": "stick3",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 2, 2, 2], "textureOffset": [8, 18]},
+				{"coordinates": [0, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-2, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-3, 14, -1, 4, 10, 0], "textureOffset": [0, 15]},
+				{"coordinates": [-3, 14, 1, 4, 10, 0], "textureOffset": [0, 15]}
+			]
+		},
+		{
+			"part": "stick4",
+			"id": "stick4",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 2, 2, 2], "textureOffset": [8, 18]},
+				{"coordinates": [0, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-2, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-3, 14, -1, 4, 10, 0], "textureOffset": [0, 15]},
+				{"coordinates": [-3, 14, 1, 4, 10, 0], "textureOffset": [0, 15]}
+			]
+		},
+		{
+			"part": "stick5",
+			"id": "stick5",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 2, 2, 2], "textureOffset": [8, 18]},
+				{"coordinates": [0, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-2, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-3, 14, -1, 4, 10, 0], "textureOffset": [0, 15]},
+				{"coordinates": [-3, 14, 1, 4, 10, 0], "textureOffset": [0, 15]}
+			]
+		},
+		{
+			"part": "stick6",
+			"id": "stick6",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 2, 2, 2], "textureOffset": [8, 18]},
+				{"coordinates": [0, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-2, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-3, 14, -1, 4, 10, 0], "textureOffset": [0, 15]},
+				{"coordinates": [-3, 14, 1, 4, 10, 0], "textureOffset": [0, 15]}
+			]
+		},
+		{
+			"part": "stick7",
+			"id": "stick7",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 2, 2, 2], "textureOffset": [8, 18]},
+				{"coordinates": [0, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-2, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-3, 14, -1, 4, 10, 0], "textureOffset": [0, 15]},
+				{"coordinates": [-3, 14, 1, 4, 10, 0], "textureOffset": [0, 15]}
+			]
+		},
+		{
+			"part": "stick8",
+			"id": "stick8",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 2, 2, 2], "textureOffset": [8, 18]},
+				{"coordinates": [0, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-2, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-3, 14, -1, 4, 10, 0], "textureOffset": [0, 15]},
+				{"coordinates": [-3, 14, 1, 4, 10, 0], "textureOffset": [0, 15]}
+			]
+		},
+		{
+			"part": "stick9",
+			"id": "stick9",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 2, 2, 2], "textureOffset": [8, 18]},
+				{"coordinates": [0, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-2, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-3, 14, -1, 4, 10, 0], "textureOffset": [0, 15]},
+				{"coordinates": [-3, 14, 1, 4, 10, 0], "textureOffset": [0, 15]}
+			]
+		},
+		{
+			"part": "stick10",
+			"id": "stick10",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 2, 2, 2], "textureOffset": [8, 18]},
+				{"coordinates": [0, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-2, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-3, 14, -1, 4, 10, 0], "textureOffset": [0, 15]},
+				{"coordinates": [-3, 14, 1, 4, 10, 0], "textureOffset": [0, 15]}
+			]
+		},
+		{
+			"part": "stick11",
+			"id": "stick11",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 2, 2, 2], "textureOffset": [8, 18]},
+				{"coordinates": [0, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-2, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-3, 14, -1, 4, 10, 0], "textureOffset": [0, 15]},
+				{"coordinates": [-3, 14, 1, 4, 10, 0], "textureOffset": [0, 15]}
+			]
+		},
+		{
+			"part": "stick12",
+			"id": "stick12",
+			"invertAxis": "xy",
+			"translate": [0, -24, 0],
+			"boxes": [
+				{"coordinates": [-2, 18, -1, 2, 2, 2], "textureOffset": [8, 18]},
+				{"coordinates": [0, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-2, 14, -2, 0, 10, 4], "textureOffset": [0, 11]},
+				{"coordinates": [-3, 14, -1, 4, 10, 0], "textureOffset": [0, 15]},
+				{"coordinates": [-3, 14, 1, 4, 10, 0], "textureOffset": [0, 15]}
+			]
+		}
+	]
+}
