@@ -36,6 +36,12 @@ Skeleton
 - Dry
 - Ancient
 
+Phantom
+- Thunder
+- Dusk
+- Midnight
+- Dawn
+
 Variants properties:
 
 Bat
@@ -57,7 +63,7 @@ Blaze
 
 Skeleton
 - Charred, Molten
-- - Spawns in the Nether
+- - Spawn in the Nether
 - Dry, Ancient
 - - Spawn in: desert savanna savanna_plateau windswept_savanna badlands eroded_badlands wooded_badlands
 - Frozen, Classic
@@ -67,3 +73,12 @@ Skeleton
 - Miner, Skulk
 - - Spawn between y 0 to 40
 
+Phantom
+- Dusk 
+- - Spawns between 12 000 - 16 000 ticks
+- Midnight
+- - Spawns between 16 001 - 20 000 ticks
+- Dawn
+- - Spawns between 20 001 - 24 000 ticks
+- Thunder
+- - Spawns at day during thunder
