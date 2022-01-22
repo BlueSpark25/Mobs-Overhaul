@@ -5,8 +5,7 @@ Works only with Optifine
 
 So far made only for 1.18
 
-To force mob into a certain variant, name it with the name of the variant.
-Names are case sensitive!
+Mobs can be forced into a certain variant via naming them accordingly, names are case sensitive.
 
 List:
 
@@ -24,6 +23,18 @@ Blaze
 - Crimson (red)
 - Bright (bright blue)
 - Shadow (purple)
+
+Skeleton
+- Classic
+- Charred
+- Molten
+- Mossy
+- Flower
+- Miner
+- Skulk
+- Frozen
+- Dry
+- Ancient
 
 Variants properties:
 
@@ -43,3 +54,16 @@ Blaze
 - - Spawn in: crimson_forest basalt_deltas
 - Classic, Carrot, Lemon, Orange
 - - Spawn anywhere else
+
+Skeleton
+- Charred, Molten
+- - Spawns in the Nether
+- Dry, Ancient
+- - Spawn in: desert savanna savanna_plateau windswept_savanna badlands eroded_badlands wooded_badlands
+- Frozen, Classic
+- - Spawn in: deep_frozen_ocean frozen_ocean frozen_river frozen_peaks snowy_slopes grove windswept_forest snowy_taiga ice_spikes snowy_plains
+- Mossy, Flower, Classic
+- - Spawn in: plains sunflower_plains swamp forest flower_forest birch_forest dark_forest old_growth_birch_forest old_growth_pine_taiga old_growth_spruce_taiga taiga jungle sparse_jungle bamboo_jungle meadow
+- Miner, Skulk
+- - Spawn between y 0 to 40
+
